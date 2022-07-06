@@ -1,0 +1,19 @@
+.card-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-depName {
+  width: 100%;
+  margin-right: 8px;
+}
+
+.body-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.buttons-form {
+  display: flex;
+}
